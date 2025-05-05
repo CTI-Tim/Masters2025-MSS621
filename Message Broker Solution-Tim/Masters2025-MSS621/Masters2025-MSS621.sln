@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masters2025-MSS621", "Masters2025-MSS621.csproj", "{7A475C70-1C14-44B9-996E-D0366CE92AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker", "..\MessageBroker\MessageBroker.csproj", "{33C9C3E6-370F-48EC-8C33-410129CB95C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airmedia3100", "..\Airmedia3100\Airmedia3100.csproj", "{EDB86D4C-78D2-4238-B6C0-3F5EC99E7B5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Device Library Code", "Device Library Code", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Operation Library Code", "Operation Library Code", "{26B34BF9-51BC-4EB2-90A0-9848AFD278B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrestronConnected", "..\CrestronConnected\CrestronConnected.csproj", "{FEE45C1E-416E-4E3F-A604-C187B96C41F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nvx3xx", "..\Nvx3xx\Nvx3xx.csproj", "{73ADD4D8-1FBE-4ED5-A716-FE2BC07FB1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A475C70-1C14-44B9-996E-D0366CE92AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A475C70-1C14-44B9-996E-D0366CE92AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A475C70-1C14-44B9-996E-D0366CE92AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A475C70-1C14-44B9-996E-D0366CE92AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C9C3E6-370F-48EC-8C33-410129CB95C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C9C3E6-370F-48EC-8C33-410129CB95C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C9C3E6-370F-48EC-8C33-410129CB95C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C9C3E6-370F-48EC-8C33-410129CB95C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB86D4C-78D2-4238-B6C0-3F5EC99E7B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB86D4C-78D2-4238-B6C0-3F5EC99E7B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB86D4C-78D2-4238-B6C0-3F5EC99E7B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB86D4C-78D2-4238-B6C0-3F5EC99E7B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE45C1E-416E-4E3F-A604-C187B96C41F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE45C1E-416E-4E3F-A604-C187B96C41F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE45C1E-416E-4E3F-A604-C187B96C41F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE45C1E-416E-4E3F-A604-C187B96C41F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73ADD4D8-1FBE-4ED5-A716-FE2BC07FB1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73ADD4D8-1FBE-4ED5-A716-FE2BC07FB1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73ADD4D8-1FBE-4ED5-A716-FE2BC07FB1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73ADD4D8-1FBE-4ED5-A716-FE2BC07FB1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33C9C3E6-370F-48EC-8C33-410129CB95C7} = {26B34BF9-51BC-4EB2-90A0-9848AFD278B1}
+		{EDB86D4C-78D2-4238-B6C0-3F5EC99E7B5E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{FEE45C1E-416E-4E3F-A604-C187B96C41F7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{73ADD4D8-1FBE-4ED5-A716-FE2BC07FB1BE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3851133-78D1-4C2D-97AD-2335D49F5AC9}
+	EndGlobalSection
+EndGlobal

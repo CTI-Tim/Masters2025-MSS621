@@ -1,0 +1,145 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-16 11:59:58.949039-04:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-16 11:59:58.949035-04:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div id="im87alz473" devicesvisited="[&quot;TSW-760&quot;]" defaultwidth="1260px" defaultheight="80px" globalcontrolcontract="on" class="widget-container"><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="iconclass" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" shape="rounded-rectangle" customvstheme="custom" id="iqjp" pageflip="0" iconposition="first" previewstate="normal" orientation="horizontal" labelmode="simple" componentname="PowerButton" ccid_themecssset="true" devicesvisited="[&quot;TSW-760&quot;]" size="custom" iconclass="fas fa-power-off" sendeventontouch="Contract Enabled" pd-receivestateselected="Contract Enabled" selected="false" labelinnerhtml="" ccid_syncproperties="disabled">
+              </ch5-button><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="label" id="iuen" componentname="RoomNameLabel" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" pd-receivestatelabel="Contract Enabled">
+              </ch5-text><ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="isar" componentname="Background" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" backgroundcolor="rgba(0,0,0,0.34)">
+              </ch5-background></div>
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #im87alz473 { width: 1260px; height: 80px; left: 0; top: 0; position: absolute; display: block; partial: undefined } .widget-container { background-image: linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%); background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px; z-index: 0 } #isar { width: 100%; height: 100%; left: 0; top: 0; position: absolute; display: block; z-index: -81; overflow: hidden } #iuen .ch5-text { width: 651px; height: 79px; font-size: 40px; custom-font-size: 40px; color: #ffffff } #iuen { width: 651px; height: 79px; font-family: Roboto; left: 304px; top: 0px; position: absolute; z-index: 9; display: block } #iqjp { Appearance_border-style: solid; --ch5-button--default-border-style: solid; Appearance_border-color: rgba(0,145,234,0); --ch5-button--default-border-color: rgba(0,145,234,0); Appearance_background-color: rgba(0,0,0,0); --ch5-button--default-background-color: rgba(0,0,0,0); Appearance_border-width: 1px; --ch5-button--default-border-width: 1px; Label_color: #ffffff; --ch5-button--default-label-font-color: #ffffff; Label_font-size: 14px; --ch5-button--regular-font-size: 14px; Label_font-weight: 400; --ch5-button--regular-font-weight: 400; Icon_color: #ffffff; --ch5-button--default-icon-color: #ffffff; Icon_font-size: 38px; --ch5-button--regular-icon-size: 38px; custom-normal-icon-font-size: 38px; Checkbox_color: #ffffff; --ch5-button--default-checkbox-color: #ffffff; Image_width: 21px; --ch5-button--regular-image-width: 21px; Image_height: 21px; --ch5-button--regular-image-height: 21px; pressedAppearance_background-color: rgba(0,138,230,0); --ch5-button--default-pressed-background-color: rgba(0,138,230,0); pressedAppearance_border-color: #0091ea; --ch5-button--default-pressed-border-color: #0091ea; pressedLabel_color: #f0fff0; --ch5-button--default-pressed-label-font-color: #f0fff0; pressedLabel_font-size: 14px; --ch5-button--regular-pressed-font-size: 14px; pressedLabel_font-weight: 400; --ch5-button--regular-pressed-font-weight: 400; pressedIcon_color: #f0fff0; --ch5-button--default-pressed-icon-color: #f0fff0; pressedIcon_font-size: 38px; --ch5-button--regular-pressed-icon-size: 38px; custom-pressed-icon-font-size: 38px; pressedCheckbox_color: #f0fff0; --ch5-button--default-pressed-checkbox-color: #f0fff0; pressedImage_width: 21px; --ch5-button--regular-pressed-image-width: 21px; pressedImage_height: 21px; --ch5-button--regular-pressed-image-height: 21px; selectedAppearance_background-color: #0073bf; --ch5-button--default-selected-background-color: #0073bf; selectedAppearance_border-color: #0091ea; --ch5-button--default-selected-border-color: #0091ea; selectedLabel_color: #f0fff0; --ch5-button--default-selected-label-font-color: #f0fff0; selectedLabel_font-size: 14px; --ch5-button--regular-selected-font-size: 14px; selectedLabel_font-weight: 400; --ch5-button--regular-selected-font-weight: 400; selectedIcon_color: #f0fff0; --ch5-button--default-selected-icon-color: #f0fff0; selectedIcon_font-size: 14px; --ch5-button--regular-selected-icon-size: 14px; custom-selected-icon-font-size: 14px; selectedCheckbox_color: #f0fff0; --ch5-button--default-selected-checkbox-color: #f0fff0; selectedImage_width: 21px; --ch5-button--regular-selected-image-width: 21px; selectedImage_height: 21px; --ch5-button--regular-selected-image-height: 21px; width: 106px; --ch5-button--regular-width: 106px; height: 79px; --ch5-button--regular-height: 79px; font-family: Roboto; left: 0px; top: 0px; position: absolute; z-index: 10; display: block; buttonDefaultPressedIcon_font-size: 38px } #iqjp .ch5-button-child { top: inherit; left: inherit; position: fixed } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "HeaderBar"
+PageMode = "absolute"
+Id = "8f4e85cd-2faf-4f4b-91eb-3367a560bd9f"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+id = "iqjp"
+pageflip = "0"
+iconposition = "first"
+previewstate = "normal"
+orientation = "horizontal"
+labelmode = "simple"
+componentName = "PowerButton"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-760\"]"
+size = "custom"
+iconclass = "fas fa-power-off"
+sendeventontouch = "Contract Enabled"
+pd-receivestateselected = "Contract Enabled"
+selected = "false"
+labelinnerhtml = ""
+ccid_syncproperties = "disabled"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "label"
+id = "iuen"
+componentName = "RoomNameLabel"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "isar"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+backgroundcolor = "rgba(0,0,0,0.34)"
+url = ""
+
+[Elements.Attributes]
+id = "im87alz473"
+devicesVisited = "[\"TSW-760\"]"
+defaultWidth = "1260px"
+defaultHeight = "80px"
+globalControlContract = "on"
+

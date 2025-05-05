@@ -1,0 +1,96 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-16 16:12:42.290351-04:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-16 16:12:42.290347-04:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="6e1628ae-d46c-47fb-8690-191a31b81b83" id="iz1a" componentname="Background" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" imgbackgroundcolor="transparent" backgroundcolor="#ffffff">
+              </ch5-background><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="pressed" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="iconclass" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" customvstheme="custom" id="iasu" labelinnerhtml="Touch the Screen to Begin" pageflip="0" labelmode="simple" componentname="Button" ccid_themecssset="true" devicesvisited="[&quot;TSW-760&quot;]" sendeventontouch="Contract Enabled" pd-receivestateselected="Contract Enabled" assetid="0" pressed="true">
+              </ch5-button>
+
+{Css}
+@media (max-width: 99999px){#iz1a{width:1262px;height:740px;z-index:-83;overflow:hidden;position:absolute;left:0px;top:0px;display:block;}#iasu{width:1259px;--ch5-button--regular-width:1259px;height:734px;--ch5-button--regular-height:734px;font-family:Roboto;left:1px;top:3px;position:absolute;display:block;buttonDefaultLabel_font-size:52px;Appearance_border-style:solid;--ch5-button--default-border-style:solid;Appearance_border-color:rgba(0,145,234,0);--ch5-button--default-border-color:rgba(0,145,234,0);Appearance_background-color:rgba(0,153,255,0);--ch5-button--default-background-color:rgba(0,153,255,0);Appearance_border-width:1px;--ch5-button--default-border-width:1px;Label_color:#ffffff;--ch5-button--default-label-font-color:#ffffff;Label_font-size:52px;--ch5-button--regular-font-size:52px;Label_font-weight:400;--ch5-button--regular-font-weight:400;custom-normal-label-font-size:52px;Icon_color:#ffffff;--ch5-button--default-icon-color:#ffffff;Icon_font-size:14px;--ch5-button--regular-icon-size:14px;custom-normal-icon-font-size:14px;Checkbox_color:#ffffff;--ch5-button--default-checkbox-color:#ffffff;Image_width:21px;--ch5-button--regular-image-width:21px;Image_height:21px;--ch5-button--regular-image-height:21px;pressedAppearance_background-color:rgba(0,138,230,0);--ch5-button--default-pressed-background-color:rgba(0,138,230,0);pressedAppearance_border-color:rgba(0,145,234,0);--ch5-button--default-pressed-border-color:rgba(0,145,234,0);pressedLabel_color:#ffe900;--ch5-button--default-pressed-label-font-color:#ffe900;pressedLabel_font-size:52px;--ch5-button--regular-pressed-font-size:52px;pressedLabel_font-weight:400;--ch5-button--regular-pressed-font-weight:400;pressedIcon_color:#f0fff0;--ch5-button--default-pressed-icon-color:#f0fff0;pressedIcon_font-size:14px;--ch5-button--regular-pressed-icon-size:14px;custom-pressed-icon-font-size:14px;pressedCheckbox_color:#f0fff0;--ch5-button--default-pressed-checkbox-color:#f0fff0;pressedImage_width:21px;--ch5-button--regular-pressed-image-width:21px;pressedImage_height:21px;--ch5-button--regular-pressed-image-height:21px;selectedAppearance_background-color:#0073bf;--ch5-button--default-selected-background-color:#0073bf;selectedAppearance_border-color:#0091ea;--ch5-button--default-selected-border-color:#0091ea;selectedLabel_color:#f0fff0;--ch5-button--default-selected-label-font-color:#f0fff0;selectedLabel_font-size:14px;--ch5-button--regular-selected-font-size:14px;selectedLabel_font-weight:400;--ch5-button--regular-selected-font-weight:400;selectedIcon_color:#f0fff0;--ch5-button--default-selected-icon-color:#f0fff0;selectedIcon_font-size:14px;--ch5-button--regular-selected-icon-size:14px;custom-selected-icon-font-size:14px;selectedCheckbox_color:#f0fff0;--ch5-button--default-selected-checkbox-color:#f0fff0;selectedImage_width:21px;--ch5-button--regular-selected-image-width:21px;selectedImage_height:21px;--ch5-button--regular-selected-image-height:21px;custom-pressed-label-font-size:52px;}#iasu .ch5-button-child{top:inherit;left:inherit;position:fixed;}#wrapper{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1263px) and (max-height: 741px), (orientation: landscape) and (max-width: 1261px){#iasu{pressedLabel_font-size:52px;--ch5-button--regular-pressed-font-size:52px;pressedLabel_color:#ffe900;--ch5-button--default-pressed-label-font-color:#ffe900;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "StartPage"
+PageMode = "absolute"
+Id = "692c9d38-151f-4447-98b9-4086670bbbf5"
+StartPage = "True"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "VisibilityJoin"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "Ch5 Background"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "6e1628ae-d46c-47fb-8690-191a31b81b83"
+id = "iz1a"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+imgbackgroundcolor = "transparent"
+backgroundcolor = "#ffffff"
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "pressed"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+id = "iasu"
+labelinnerhtml = "Touch the Screen to Begin"
+pageflip = "0"
+labelmode = "simple"
+componentName = "Button"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-760\"]"
+sendeventontouch = "Contract Enabled"
+pd-receivestateselected = "Contract Enabled"
+assetid = "0"
+pressed = "true"
+

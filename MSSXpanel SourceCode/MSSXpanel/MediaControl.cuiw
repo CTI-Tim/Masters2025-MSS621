@@ -1,0 +1,265 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.201.20.0"
+Created = 2025-04-22 17:21:49.219325-04:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-22 17:21:49.21932-04:00
+CreatedByProjectApp = "1.3801.23.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div categoryname="Widget Components" id="i45j4ehsbr" devicesvisited="[&quot;TSW-760&quot;]" defaultwidth="650px" defaultheight="600px" globalcontrolcontract="on" class="widget-container"><ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="ifj69yk15s" componentname="Background" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" backgroundcolor="rgba(0,0,0,0.17)" oldid="i8bypjwfj7" componentwasresized="true">
+              </ch5-background><ch5-dpad shape="plus" type="default" usecontractforcustomstyle="false" usecontractforcustomclass="false" usecontractforenable="false" usecontractforshow="false" hidecenterbutton="false" disablecenterbutton="false" customvstheme="custom" id="i6ff" componentname="Dpad" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-760&quot;]" ccid_themecssset="true" sendeventonclickstart="Contract Enabled" size="custom">
+              <ch5-dpad-button componentname="Up" key="up" iconclass="fas fa-caret-up" ccid_imageicontype="iconclass"></ch5-dpad-button><ch5-dpad-button componentname="Down" key="down" iconclass="fas fa-caret-down" ccid_imageicontype="iconclass" id="iz2k"></ch5-dpad-button><ch5-dpad-button componentname="Left" key="left" iconclass="fas fa-caret-left" ccid_imageicontype="iconclass" id="i36gz"></ch5-dpad-button><ch5-dpad-button componentname="Right" key="right" iconclass="fas fa-caret-right" ccid_imageicontype="iconclass" id="i8a6l"></ch5-dpad-button><ch5-dpad-button componentname="Center" key="center" iconclass="fas fa-circle" ccid_imageicontype="iconclass" id="izo1y"></ch5-dpad-button></ch5-dpad><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="normal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="iconclass" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" customvstheme="custom" id="iwml5" labelinnerhtml="Back" pageflip="0" labelmode="simple" componentname="BackButton" ccid_themecssset="true" devicesvisited="[&quot;TSW-760&quot;]" selected="false" sendeventontouch="Contract Enabled" pd-receivestateselected="Contract Enabled" assetid="0">
+              </ch5-button><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="pressed" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" customvstheme="custom" id="i5ohhew51evgk" pageflip="0" labelmode="simple" componentname="PlayButton" ccid_themecssset="true" devicesvisited="[&quot;TSW-760&quot;]" oldid="iwml5" assetid="d520b6e9-c525-45f5-8046-ae3f17c8b153" pressed="true" selected="false" sendeventontouch="Contract Enabled" pd-receivestateselected="Contract Enabled" labelinnerhtml=""></ch5-button><ch5-button orientation="horizontal" size="custom" shape="rounded-rectangle" previewstate="normal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="iconclass" ccid_linksendreceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedbypreviewstate="True" iconposition="first" tagname="ch5-button" ccid_syncproperties="disabled" ccid_lastsizeselected="regular" ccid_componenttype="button" ccid_ch5type="button" customvstheme="custom" id="i2r0u356rgcaf" labelinnerhtml="Menu" pageflip="0" labelmode="simple" componentname="MenuButton" ccid_themecssset="true" devicesvisited="[&quot;TSW-760&quot;]" selected="false" oldid="iwml5" sendeventontouch="Contract Enabled" pd-receivestateselected="Contract Enabled" assetid="0"></ch5-button></div>
+
+{Css}
+@media (max-width: 99999px){#i45j4ehsbr{width:650px;height:600px;left:0;top:0;position:absolute;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#ifj69yk15s{width:100%;height:100%;left:0px;top:0px;position:absolute;display:block;partial:undefined;z-index:-65;overflow:hidden;}#i6ff.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child{dpadDefault_color:#ffffff;color:#ffffff;dpadDefault_background-color:#0099ff;background-color:#0099ff;}#i6ff.ch5-dpad .ch5-dpad-child.direction-btn span.dpad-btn-icon{z-index:1;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up::after{box-shadow:-10px 1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up::before{box-shadow:10px 1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down::after{box-shadow:10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down::before{box-shadow:-10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]::after{box-shadow:-10px 1px 0 0 #008ae6;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]::before{box-shadow:10px 1px 0 0 #008ae6;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]::after{box-shadow:10px -1px 0 0 #008ae6;}#i6ff.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]::before{box-shadow:-10px -1px 0 0 #008ae6;}#i6ff.ch5-dpad.ch5-dpad--type-default ch5-dpad-button[class*="--pressed"]{background-color:#008ae6;}#i6ff.ch5-dpad.ch5-dpad--type-default ch5-dpad-button{background-color:#0099ff;}#i6ff.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn{flex:calc(100%/3);height:calc(100%/3);}#i6ff.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn.left{margin-right:0;padding-right:16.5%;z-index:1;}#i6ff.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn.right{margin-left:0;padding-left:16.5%;z-index:1;}#i6ff.ch5-dpad ch5-dpad-button.center{width:calc(100%/3);height:calc(100%/3);z-index:2;}#i6ff.ch5-dpad ch5-dpad-button.down{z-index:0;}#i6ff.ch5-dpad.ch5-dpad--size-regular .dpad-container{width:285px;height:285px;}#i6ff{display:block;width:285px;dpadDefault_color:#ffffff;dpadActiveDefault_color:#f0fff0;min-width:100px;min-height:100px;height:285px;left:182px;top:119px;position:absolute;dpadDefault_background-color:#0099ff;dpadActiveDefault_background-color:#008ae6;}#i6ff .dpad-container{width:inherit !important;height:inherit !important;min-width:100px;min-height:100px;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left::after{box-shadow:10px 0 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left::before{box-shadow:-10px 0 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right::after{box-shadow:-10px 0 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right::before{box-shadow:10px 0 0 0 #0099ff;}#i2r0u356rgcaf{width:133px;--ch5-button--regular-width:133px;height:73px;--ch5-button--regular-height:73px;font-family:Roboto;left:417px;top:474px;position:absolute;display:block;buttonDefaultLabel_font-size:32px;buttonDefaultPressedLabel_font-size:32px;Appearance_border-style:solid;--ch5-button--default-border-style:solid;Appearance_border-color:#0091ea;--ch5-button--default-border-color:#0091ea;Appearance_background-color:#0099ff;--ch5-button--default-background-color:#0099ff;Appearance_border-width:1px;--ch5-button--default-border-width:1px;Label_color:#ffffff;--ch5-button--default-label-font-color:#ffffff;Label_font-size:32px;--ch5-button--regular-font-size:32px;Label_font-weight:400;--ch5-button--regular-font-weight:400;custom-normal-label-font-size:32px;Icon_color:#ffffff;--ch5-button--default-icon-color:#ffffff;Icon_font-size:14px;--ch5-button--regular-icon-size:14px;custom-normal-icon-font-size:14px;Checkbox_color:#ffffff;--ch5-button--default-checkbox-color:#ffffff;pressedAppearance_background-color:#207d0c;--ch5-button--default-pressed-background-color:#207d0c;pressedAppearance_border-color:#00ea06;--ch5-button--default-pressed-border-color:#00ea06;pressedLabel_color:#f0fff0;--ch5-button--default-pressed-label-font-color:#f0fff0;pressedLabel_font-size:32px;--ch5-button--regular-pressed-font-size:32px;pressedLabel_font-weight:400;--ch5-button--regular-pressed-font-weight:400;custom-pressed-label-font-size:32px;pressedIcon_color:#f0fff0;--ch5-button--default-pressed-icon-color:#f0fff0;pressedIcon_font-size:14px;--ch5-button--regular-pressed-icon-size:14px;custom-pressed-icon-font-size:14px;pressedCheckbox_color:#f0fff0;--ch5-button--default-pressed-checkbox-color:#f0fff0;selectedAppearance_background-color:#0073bf;--ch5-button--default-selected-background-color:#0073bf;selectedAppearance_border-color:#0091ea;--ch5-button--default-selected-border-color:#0091ea;selectedLabel_color:#f0fff0;--ch5-button--default-selected-label-font-color:#f0fff0;selectedLabel_font-size:14px;--ch5-button--regular-selected-font-size:14px;selectedLabel_font-weight:400;--ch5-button--regular-selected-font-weight:400;selectedIcon_color:#f0fff0;--ch5-button--default-selected-icon-color:#f0fff0;selectedIcon_font-size:14px;--ch5-button--regular-selected-icon-size:14px;custom-selected-icon-font-size:14px;selectedCheckbox_color:#f0fff0;--ch5-button--default-selected-checkbox-color:#f0fff0;Image_width:21px;--ch5-button--regular-image-width:21px;Image_height:21px;--ch5-button--regular-image-height:21px;pressedImage_width:21px;--ch5-button--regular-pressed-image-width:21px;pressedImage_height:21px;--ch5-button--regular-pressed-image-height:21px;selectedImage_width:21px;--ch5-button--regular-selected-image-width:21px;selectedImage_height:21px;--ch5-button--regular-selected-image-height:21px;}#i5ohhew51evgk{Appearance_border-style:solid;--ch5-button--default-border-style:solid;Appearance_border-color:#0091ea;--ch5-button--default-border-color:#0091ea;Appearance_background-color:#0099ff;--ch5-button--default-background-color:#0099ff;Appearance_border-width:1px;--ch5-button--default-border-width:1px;Label_color:#ffffff;--ch5-button--default-label-font-color:#ffffff;Label_font-size:32px;--ch5-button--regular-font-size:32px;Label_font-weight:400;--ch5-button--regular-font-weight:400;custom-normal-label-font-size:32px;Icon_color:#ffffff;--ch5-button--default-icon-color:#ffffff;Icon_font-size:14px;--ch5-button--regular-icon-size:14px;custom-normal-icon-font-size:14px;Checkbox_color:#ffffff;--ch5-button--default-checkbox-color:#ffffff;Image_width:88px;--ch5-button--regular-image-width:88px;Image_height:40px;--ch5-button--regular-image-height:40px;pressedAppearance_background-color:#207d0c;--ch5-button--default-pressed-background-color:#207d0c;pressedAppearance_border-color:#00ea06;--ch5-button--default-pressed-border-color:#00ea06;pressedLabel_color:#f0fff0;--ch5-button--default-pressed-label-font-color:#f0fff0;pressedLabel_font-size:32px;--ch5-button--regular-pressed-font-size:32px;pressedLabel_font-weight:400;--ch5-button--regular-pressed-font-weight:400;custom-pressed-label-font-size:32px;pressedIcon_color:#f0fff0;--ch5-button--default-pressed-icon-color:#f0fff0;pressedIcon_font-size:14px;--ch5-button--regular-pressed-icon-size:14px;custom-pressed-icon-font-size:14px;pressedCheckbox_color:#f0fff0;--ch5-button--default-pressed-checkbox-color:#f0fff0;pressedImage_width:88px;--ch5-button--regular-pressed-image-width:88px;pressedImage_height:40px;--ch5-button--regular-pressed-image-height:40px;selectedAppearance_background-color:#0073bf;--ch5-button--default-selected-background-color:#0073bf;selectedAppearance_border-color:#0091ea;--ch5-button--default-selected-border-color:#0091ea;selectedLabel_color:#f0fff0;--ch5-button--default-selected-label-font-color:#f0fff0;selectedLabel_font-size:14px;--ch5-button--regular-selected-font-size:14px;selectedLabel_font-weight:400;--ch5-button--regular-selected-font-weight:400;selectedIcon_color:#f0fff0;--ch5-button--default-selected-icon-color:#f0fff0;selectedIcon_font-size:14px;--ch5-button--regular-selected-icon-size:14px;custom-selected-icon-font-size:14px;selectedCheckbox_color:#f0fff0;--ch5-button--default-selected-checkbox-color:#f0fff0;width:133px;--ch5-button--regular-width:133px;height:73px;--ch5-button--regular-height:73px;font-family:Roboto;left:258px;top:474px;position:absolute;display:block;buttonDefaultLabel_font-size:32px;buttonDefaultPressedLabel_font-size:32px;buttonDefaultPressedImage_width:88px;buttonDefaultPressedImage_height:40px;selectedImage_width:21px;--ch5-button--regular-selected-image-width:21px;selectedImage_height:21px;--ch5-button--regular-selected-image-height:21px;}#iwml5{width:133px;--ch5-button--regular-width:133px;height:73px;--ch5-button--regular-height:73px;font-family:Roboto;left:99px;top:474px;position:absolute;display:block;buttonDefaultLabel_font-size:32px;buttonDefaultPressedLabel_font-size:32px;Appearance_border-style:solid;--ch5-button--default-border-style:solid;Appearance_border-color:#0091ea;--ch5-button--default-border-color:#0091ea;Appearance_background-color:#0099ff;--ch5-button--default-background-color:#0099ff;Appearance_border-width:1px;--ch5-button--default-border-width:1px;Label_color:#ffffff;--ch5-button--default-label-font-color:#ffffff;Label_font-size:32px;--ch5-button--regular-font-size:32px;Label_font-weight:400;--ch5-button--regular-font-weight:400;custom-normal-label-font-size:32px;Icon_color:#ffffff;--ch5-button--default-icon-color:#ffffff;Icon_font-size:14px;--ch5-button--regular-icon-size:14px;custom-normal-icon-font-size:14px;Checkbox_color:#ffffff;--ch5-button--default-checkbox-color:#ffffff;pressedAppearance_background-color:#207d0c;--ch5-button--default-pressed-background-color:#207d0c;pressedAppearance_border-color:#00ea06;--ch5-button--default-pressed-border-color:#00ea06;pressedLabel_color:#f0fff0;--ch5-button--default-pressed-label-font-color:#f0fff0;pressedLabel_font-size:32px;--ch5-button--regular-pressed-font-size:32px;pressedLabel_font-weight:400;--ch5-button--regular-pressed-font-weight:400;custom-pressed-label-font-size:32px;pressedIcon_color:#f0fff0;--ch5-button--default-pressed-icon-color:#f0fff0;pressedIcon_font-size:14px;--ch5-button--regular-pressed-icon-size:14px;custom-pressed-icon-font-size:14px;pressedCheckbox_color:#f0fff0;--ch5-button--default-pressed-checkbox-color:#f0fff0;selectedAppearance_background-color:#0073bf;--ch5-button--default-selected-background-color:#0073bf;selectedAppearance_border-color:#0091ea;--ch5-button--default-selected-border-color:#0091ea;selectedLabel_color:#f0fff0;--ch5-button--default-selected-label-font-color:#f0fff0;selectedLabel_font-size:14px;--ch5-button--regular-selected-font-size:14px;selectedLabel_font-weight:400;--ch5-button--regular-selected-font-weight:400;selectedIcon_color:#f0fff0;--ch5-button--default-selected-icon-color:#f0fff0;selectedIcon_font-size:14px;--ch5-button--regular-selected-icon-size:14px;custom-selected-icon-font-size:14px;selectedCheckbox_color:#f0fff0;--ch5-button--default-selected-checkbox-color:#f0fff0;Image_width:21px;--ch5-button--regular-image-width:21px;Image_height:21px;--ch5-button--regular-image-height:21px;pressedImage_width:21px;--ch5-button--regular-pressed-image-width:21px;pressedImage_height:21px;--ch5-button--regular-pressed-image-height:21px;selectedImage_width:21px;--ch5-button--regular-selected-image-width:21px;selectedImage_height:21px;--ch5-button--regular-selected-image-height:21px;}#iwml5 .ch5-button-child{top:inherit;left:inherit;position:fixed;}#wrapper{background-color:#ffffff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left:after{box-shadow:10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.left:before{box-shadow:-10px -1px 0 0px #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right:after{box-shadow:-10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.right:before{box-shadow:10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before{box-shadow:10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after{box-shadow:-10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after{box-shadow:-10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-x-large.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:before{box-shadow:10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--size-x-large .dpad-container{width:202px;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.left:after{box-shadow:10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.left:before{box-shadow:-10px -1px 0 0px #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.right:after{box-shadow:-10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.right:before{box-shadow:10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before{box-shadow:10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after{box-shadow:-10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after{box-shadow:-10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-regular.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:before{box-shadow:10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.left:after{box-shadow:10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.left:before{box-shadow:-10px -1px 0 0px #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.right:after{box-shadow:-10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.right:before{box-shadow:10px -1px 0 0 #0099ff;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:before{box-shadow:10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-right--pressed.direction-btn.right:after{box-shadow:-10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left:before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:after{box-shadow:-10px -1px 0 0 #008ae6 !important;}#i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-circle .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right::before, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.left::after, #i6ff.ch5-dpad.ch5-dpad--type-default.ch5-dpad--size-custom.ch5-dpad--shape-plus .direction-btn.ch5-dpad-button-left--pressed.direction-btn.right:before{box-shadow:10px -1px 0 0 #008ae6 !important;}}@media (orientation: landscape) and (max-width: 1263px) and (max-height: 741px), (orientation: landscape) and (max-width: 1261px){#i45j4ehsbr{width:650px;height:600px;left:0;top:0;position:absolute;}#i6ff{width:285px;left:182px;height:285px;top:119px;position:absolute;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "MediaControl"
+PageMode = "absolute"
+Id = "bed4d4b6-bc2a-4f68-9037-c7a37629dd7f"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Background"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "ifj69yk15s"
+componentName = "Background"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+backgroundcolor = "rgba(0,0,0,0.17)"
+oldID = "i8bypjwfj7"
+componentWasResized = "true"
+[[Elements.Components]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+id = "iz2k"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+id = "i36gz"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+id = "i8a6l"
+[[Elements.Components.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Components.Attributes]
+componentName = "Center"
+key = "center"
+iconclass = "fas fa-circle"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+id = "izo1y"
+
+[Elements.Components.Attributes]
+shape = "plus"
+type = "default"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "custom"
+id = "i6ff"
+componentName = "Dpad"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-760\"]"
+ccid_themeCSSSet = "true"
+sendeventonclickstart = "Contract Enabled"
+disabled = "false"
+size = "custom"
+[[Elements.Components]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+id = "iwml5"
+labelinnerhtml = "Back"
+pageflip = "0"
+labelmode = "simple"
+componentName = "BackButton"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-760\"]"
+selected = "false"
+sendeventontouch = "Contract Enabled"
+pd-receivestateselected = "Contract Enabled"
+assetid = "0"
+[[Elements.Components]]
+Type = "Ch5 Button"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "pressed"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+id = "i5ohhew51evgk"
+pageflip = "0"
+labelmode = "simple"
+componentName = "PlayButton"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-760\"]"
+oldID = "iwml5"
+assetid = "d520b6e9-c525-45f5-8046-ae3f17c8b153"
+iconurl = "StaticFiles/389276e7-17ec-4428-82a4-8ab634e92ec1/d520b6e9-c525-45f5-8046-ae3f17c8b153/1brp5b3f.png"
+pressed = "true"
+selected = "false"
+sendeventontouch = "Contract Enabled"
+pd-receivestateselected = "Contract Enabled"
+labelinnerhtml = ""
+[[Elements.Components]]
+Type = "Ch5 Button"
+Editable = true
+
+[Elements.Components.Attributes]
+orientation = "horizontal"
+size = "custom"
+shape = "rounded-rectangle"
+previewstate = "normal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+iconposition = "first"
+tagName = "ch5-button"
+ccid_syncproperties = "disabled"
+ccid_lastSizeSelected = "regular"
+ccid_componenttype = "button"
+ccid_ch5Type = "button"
+customvstheme = "custom"
+id = "i2r0u356rgcaf"
+labelinnerhtml = "Menu"
+pageflip = "0"
+labelmode = "simple"
+componentName = "MenuButton"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-760\"]"
+selected = "false"
+oldID = "iwml5"
+sendeventontouch = "Contract Enabled"
+pd-receivestateselected = "Contract Enabled"
+assetid = "0"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+id = "i45j4ehsbr"
+devicesVisited = "[\"TSW-760\"]"
+defaultWidth = "650px"
+defaultHeight = "600px"
+globalControlContract = "on"
+

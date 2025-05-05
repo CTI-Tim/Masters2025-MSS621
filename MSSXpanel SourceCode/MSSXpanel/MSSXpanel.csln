@@ -1,0 +1,20 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.201.20.0",
+    "_created": "2025-04-16T11:54:49.1663737-04:00",
+    "_lastModifiedByAppHost": "2.201.20.0",
+    "_minimumAppHost": "2.0.0",
+    "_modified": "2025-04-16T11:54:49.7827577-04:00"
+  },
+  "_solution": {
+    "_name": "MSSXpanel",
+    "_projects": [
+      {
+        "_name": "MSSXpanel",
+        "_filename": "MSSXpanel.cuip",
+        "_datetime": "2025-04-16T15:54:49.7822982Z"
+      }
+    ]
+  }
+}

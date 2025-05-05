@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|e:\\github\\masters2025-mss-621\\crestron-masters-2025-mss-621-main\\userinterface\\xpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|solutionrelative:userinterface\\xpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|e:\\github\\masters2025-mss-621\\crestron-masters-2025-mss-621-main\\devices\\airmedia3100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|solutionrelative:devices\\airmedia3100.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|e:\\github\\masters2025-mss-621\\crestron-masters-2025-mss-621-main\\audiotv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|solutionrelative:audiotv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|e:\\github\\masters2025-mss-621\\crestron-masters-2025-mss-621-main\\eventtimers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|solutionrelative:eventtimers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|e:\\github\\masters2025-mss-621\\crestron-masters-2025-mss-621-main\\controlsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69B14A9-2D86-497E-A49E-5C0CD3F5485C}|Masters 2025 MSS-621 JW.csproj|solutionrelative:controlsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airmedia3100.cs",
+              "DocumentMoniker": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\Devices\\Airmedia3100.cs",
+              "RelativeDocumentMoniker": "Devices\\Airmedia3100.cs",
+              "ToolTip": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\Devices\\Airmedia3100.cs",
+              "RelativeToolTip": "Devices\\Airmedia3100.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:41:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Xpanel.cs",
+              "DocumentMoniker": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\UserInterface\\Xpanel.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Xpanel.cs",
+              "ToolTip": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\UserInterface\\Xpanel.cs",
+              "RelativeToolTip": "UserInterface\\Xpanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:40:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioTV.cs",
+              "DocumentMoniker": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\AudioTV.cs",
+              "RelativeDocumentMoniker": "AudioTV.cs",
+              "ToolTip": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\AudioTV.cs",
+              "RelativeToolTip": "AudioTV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:40:10.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventTimers.cs",
+              "DocumentMoniker": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\EventTimers.cs",
+              "RelativeDocumentMoniker": "EventTimers.cs",
+              "ToolTip": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\EventTimers.cs",
+              "RelativeToolTip": "EventTimers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:39:00.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlSystem.cs",
+              "DocumentMoniker": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\ControlSystem.cs",
+              "RelativeDocumentMoniker": "ControlSystem.cs",
+              "ToolTip": "E:\\GitHub\\Masters2025-MSS-621\\Crestron-Masters-2025-MSS-621-main\\ControlSystem.cs",
+              "RelativeToolTip": "ControlSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T17:38:16.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

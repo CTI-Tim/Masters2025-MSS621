@@ -1,0 +1,27 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3001.21.0"
+Created = 2024-02-21 09:39:35.849673-05:00
+LastModifiedByAppHost = "2.201.20.0"
+Modified = 2025-04-23 16:07:09.759128-04:00
+CreatedByProjectApp = "1.3001.21.0"
+LastModifiedByProjectApp = "1.3801.23.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+Name = "MSSXpanel"
+ThemeId = "light-theme.css"
+ThemePageColor = "#ffffff"
+SdkId = "CH5:2.12.0"
+ComponentKey = "UiEditor"
+Id = "389276e7-17ec-4428-82a4-8ab634e92ec1"
+DeviceResolutionIds = "D-L-TSW0760-1262-0740"
+ipId = "03"
+ProjectSchemaVersion = "6"
+
